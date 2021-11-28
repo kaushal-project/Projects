@@ -8,3 +8,7 @@
   * host :- localhost
   * DbName :- SMS_db
   * TableName = student_tb
+
+
+## OUTPUT
+<img src="Screenshot from 2021-11-28 15-29-53.png ">
